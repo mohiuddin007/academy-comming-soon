@@ -30,7 +30,7 @@ export default function Home() {
             />
           </div>
           <h2 className="text-2xl text-center font-semibold mb-4 mt-10 text-[#1CAAAA]">
-            Contact Us: 01734476990
+            Contact Us: 01886626484
           </h2>
         </div>
       </div>
